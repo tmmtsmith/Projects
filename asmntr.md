@@ -9,8 +9,10 @@
   - [ ] validation
   - [ ] algorithms
 
+"Sprint" sounds too tech-talk (bleh); let's go with an old-fashioned masculine word, battles.
 
-
-** Sprints **
-- [ ] 9/23
-  - [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] 
+**Proelia**
+- [ ] Start 9/23: 3-3-4
+  - [ ]
+  - [ ]
+  - [ ]
