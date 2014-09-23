@@ -1,9 +1,9 @@
-/Application: ASMNTR
+Application: ASMNTR
 ==========
 
 - [ ]  Database
-  -  [ ] add
-  -  [ ] update/remove
+  - [ ] add
+  - [ ] update/remove
 
 - [ ]  Middle
   - [ ] validation
@@ -13,6 +13,7 @@
 
 **Proelia**
 - [ ] Start 9/23: 3-3-4
-  - [ ]
-  - [ ]
-  - [ ]
+  - [ ] 3
+  - [ ] 3
+  - [ ] 4
+
