@@ -1,10 +1,10 @@
 Application: ASMNTR
 ==========
 
-- [ ]  Database
-  - [ ]  add
-  - [ ]  remove/update
+[ ]  Database
+  [ ]  add
+  [ ]  remove/update
   
-- [ ]  Middle
-  - [ ]  validation
-  - [ ]  algorithms
+[ ]  Middle
+  [ ]  validation
+  [ ]  algorithms
