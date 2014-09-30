@@ -4,8 +4,8 @@ Application: YRENM
 - [ ]  Database
   - [x] e-src
   - [x] t-view
-  - [ ] u-src
-  - [ ] u-view
+  - [x] u-src
+  - [x] u-view
   - [ ] l-chart
 
 - [ ]  Middle
