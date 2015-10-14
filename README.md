@@ -3,7 +3,7 @@ Projects
 
 
 
-W - 3291 :heart_eyes:
+**W**: 3291 :heart_eyes:
 
 - [x] 1514
 - [x] 1445
