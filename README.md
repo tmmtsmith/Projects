@@ -7,4 +7,5 @@ Projects
 >**W**: 14006 :heart_eyes:
 
 - [x] 4256
+- [x] 1343
 
