@@ -5,9 +5,9 @@ Projects
 
 >**M** 50583 :heart_eyes:
 >W: 11963
->W: 10951
+>W: 10951 (5E)
 
-- [x] E
+- [x] 500 E
 
 
 **Gems:**
