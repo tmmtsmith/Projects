@@ -5,7 +5,7 @@ Projects
 
 >**M** 50583 :heart_eyes:
 >W: 11963
->W: 10951 (5E)
+>W: 10951 (EEEEE)
 
 - [x] 1418 E
 
