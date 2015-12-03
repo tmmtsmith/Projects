@@ -18,6 +18,7 @@ Projects
 - [x] 2100+ A
 - [x] 500 RA
 - [x] 100
+- [x] R
 
 
 **Gems:**
