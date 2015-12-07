@@ -22,6 +22,7 @@ Projects
 - [x] R
 - [x] Mtg
 - [x] W
+- [x] Z
 
 
 **Gems:**
