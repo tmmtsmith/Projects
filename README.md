@@ -8,21 +8,7 @@ Projects
 >W: 10951 (EEEEE)
 >W: 6289 (EEEE)
 
-- [x] 241 E
-- [x] 545
-- [x] Z
-- [x] Z
-- [x] Z
-- [x] 2100
-- [x] 1693
-- [x] 2100+ A
-- [x] 500 RA
-- [x] 100
-- [x] R
-- [x] R
-- [x] Mtg
-- [x] W
-- [x] Z
+- [x] AW
 
 
 **Gems:**
