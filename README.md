@@ -9,8 +9,7 @@ Projects
 >W: 6289 (EEEE)
 
 - [x] RWS
-- All
-- All
+- [x] P
 
 
 **Gems:**
