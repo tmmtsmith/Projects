@@ -9,7 +9,7 @@ Projects
 >W: 6289 (EEEE)
 
 - [x] RWS
-- [x] P
+- [x] sick
 
 
 **Gems:**
